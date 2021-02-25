@@ -1,8 +1,5 @@
 ### Hi there! I am Sankalp 👋
 
-<!--
-**sankalpg10/sankalpg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a graduate student in the Computer Science department at NC State University, Raleigh, NC.
 
 
