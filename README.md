@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building a AWS Cloud-based Search-Engine solution for Legal Analytics, using tools such as Python-based NLP libraries, Web API, AWS Cloud Services, ECL libraries and MySQL ,to leverage relevant information for enhancing customer experience**
 
-- 🌱 I’m currently learning **Scala and Go**
+- 🌱 I’m currently learning all I can about Large-Language Models, Generative AI Tools, and how ML Models can be productionized, maintained, and scaled through MLOPs
 
 - 💬 Ask me about **Java, Python, C#, C++,Flask, Django, JavaScript,Scikit-learn, SciPy, NumPy, Pandas, TensorFlow, PyTorch, PySpark, Keras Angular, Node.JS, ASP.Net, React, jQuery, Bootstrap, HTML5 ,Web API Databases: MySQL, MongoDB, NoSQL, PostgreSQL,Micro Services, AWS Lambda, AWS SageMaker, SOAP UI, SOAP Web Services, REST Web Services, Spring, Maven, JUNIT, Git, Linux, Docker, MVC, REST API, Hadoop, Tableau, ECL, Hive, DataSwarm, Microsoft Azure, DataBricks, AWS EC2, JIRA ,YAML, Jenkins, Amplitude, Datadog, Big Query, Kubernetes**
 
